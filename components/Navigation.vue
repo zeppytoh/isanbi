@@ -1,7 +1,7 @@
 <template>
-  <header class="navbar mb-2 shadow-lg bg-neutral text-neutral-content rounded-box">
+  <header class="navbar mb-2 rounded-box bg-neutral">
     <div class="flex-none px-2 mx-2">
-      <span class="serif text-lg font-bold">iSanbi</span>
+      <span class="text-lg font-bold">iSanbi</span>
     </div>
     <div class="flex-1 px-2 mx-2">
       <div class="items-stretch hidden lg:flex">

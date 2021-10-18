@@ -1,6 +1,6 @@
 <template>
-<div class="hero min-h-screen-[88vh] bg-base-200">
-  <div class="flex-col justify-center hero-content lg:flex-row">
+<div class="hero min-h-screen-[88vh]">
+  <div class="flex-col justify-center hero-content text-neutral lg:flex-row">
     <div class="text-center lg:text-left">
       <h1 class="mb-5 text-5xl font-bold">
             合い賛美へ<br />ようこそ
