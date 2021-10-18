@@ -5,8 +5,10 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "daisyui": "^1.14.5",
     "nuxt-windicss": "^2.0.1",
     "nuxt3": "latest"
+  },
+  "dependencies": {
+    "daisyui": "^1.14.5"
   }
 }
