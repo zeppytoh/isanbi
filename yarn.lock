@@ -269,6 +269,16 @@
   dependencies:
     "mime" "^2.5.2"
 
+"@headlessui/vue@^1.4.1":
+  "integrity" "sha512-yLgpqxJGdGw+ylouZfxxuXXBqCWRZq+Jh1jb23cXQIuAngbisN5BlSO8pPpvKOvk6hXr8dx9bPohSn45cbIIHw=="
+  "resolved" "https://registry.npmjs.org/@headlessui/vue/-/vue-1.4.1.tgz"
+  "version" "1.4.1"
+
+"@heroicons/vue@^1.0.4":
+  "integrity" "sha512-jm7JMoUGr7Asn07oYNmewxkdQALnskTzRo17iGpHG/apLcc+GFdvdN4XvWZ2awStodaqeZ4eYWg7UcI0LvLETQ=="
+  "resolved" "https://registry.npmjs.org/@heroicons/vue/-/vue-1.0.4.tgz"
+  "version" "1.0.4"
+
 "@mapbox/node-pre-gyp@^1.0.5":
   "integrity" "sha512-4srsKPXWlIxp5Vbqz5uLfBN+du2fJChBoYn/f2h991WLdk7jUvcSk/McVLSv/X+xQIPI8eGD5GjrnygdyHnhPA=="
   "resolved" "https://registry.npmjs.org/@mapbox/node-pre-gyp/-/node-pre-gyp-1.0.5.tgz"
@@ -5164,7 +5174,7 @@
     "hash-sum" "^1.0.2"
     "loader-utils" "^1.0.2"
 
-"vue@^3.0.0", "vue@^3.2.20", "vue@>=3", "vue@3.2.20":
+"vue@^3.0.0", "vue@^3.2.20", "vue@>= 3", "vue@>=3", "vue@3.2.20":
   "integrity" "sha512-81JjEP4OGk9oO8+CU0h2nFPGgJBm9mNa3kdCX2k6FuRdrWrC+CNe+tOnuIeTg8EWwQuI+wwdra5Q7vSzp7p4Iw=="
   "resolved" "https://registry.npmjs.org/vue/-/vue-3.2.20.tgz"
   "version" "3.2.20"

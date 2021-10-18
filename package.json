@@ -9,6 +9,8 @@
     "nuxt3": "latest"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.4.1",
+    "@heroicons/vue": "^1.0.4",
     "daisyui": "^1.14.5"
   }
 }
