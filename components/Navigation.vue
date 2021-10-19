@@ -11,6 +11,9 @@
         <nuxt-link to="songs" class="btn btn-ghost btn-sm rounded-btn">
             SetList
         </nuxt-link>
+                <nuxt-link to="light" class="btn btn-ghost btn-sm rounded-btn">
+            Light
+        </nuxt-link>
       </div>
     </div>
     <div class="flex-none">
